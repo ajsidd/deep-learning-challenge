@@ -22,7 +22,7 @@ The purpose of this analysis is to develop a deep learning model capable of pred
   - `SPECIAL_CONSIDERATIONS`
 
 - **Removed Variables**: 
-  - `EIN` and `NAME`: These columns were removed because they do not provide any predictive value for the model. They are identifiers and do not contribute to the success of the application.
+  - `EIN` and `NAME` and `ASK_AMT`: These columns were removed because they do not provide any predictive value for the model. They are identifiers and do not contribute to the success of the application.
 
 ### Compiling, Training, and Evaluating the Model
 
